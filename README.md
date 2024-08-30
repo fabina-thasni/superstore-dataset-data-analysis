@@ -1,5 +1,8 @@
 # superstore-dataset-data-analysis
 
+![image](https://github.com/user-attachments/assets/e9d52518-5816-40e0-b8cf-312b0a149da4)
+
+
 feature description:
 
 * Row ID: A unique identifier for each row in the dataset.
